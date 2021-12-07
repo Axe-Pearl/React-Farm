@@ -25,7 +25,7 @@ function UseEffect() {
   return (
     <div>
       <h1 style={{color: Color}}>Implementation of useEffect Hook</h1>
-      <p>Type color to change: {Val}</p>
+      <p>Type color name to change heading: {Val}</p>
       <input onChange={handleChange} type="text"></input>
     </div>
   );
