@@ -1,0 +1,15 @@
+.ProductParent{
+    display: inline-block;
+    
+}
+
+.ProductContainer{
+   display: flex;
+   flex-direction: column;
+}
+
+.ProductImage{
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+}
