@@ -1,2 +1,1 @@
-# React-Yoga-Practice-
-React Practice Repo
+# React Practice Repo
